@@ -1,0 +1,5 @@
+# 提示音：插入插件行。仅在 approval/request 与 user-questions/request 上挂观察型监听器。
+- insert:
+    - id: dsh-notify-sound
+      name: dsh-notify-sound
+      config: {}
